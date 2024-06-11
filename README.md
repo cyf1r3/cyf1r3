@@ -4,7 +4,7 @@
 <h4 align="center" font-size:4em"> Hello, I am </h4>
 <h1 align="center" font-size:8em"> Anant </h1>
 <p align="center" ><b>~</b> Call me a Cyber-Dweller. <b>~</b></p>
-<p align="center"><a href="https://www.linkedin.com/in/anant-singh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/cyfire.sh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://twitter.com/cyf1r3" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/anant-singh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="#" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 <hr>
 
@@ -28,7 +28,7 @@
 <details align="center">
   <summary>Github Stats :octocat:</summary>
 
-  <img alt="Cyprofire's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cyprofire&show_icons=true&hide_border=true&theme=vue" />
+  <img alt="Cyprofire's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cyf1r3&show_icons=true&hide_border=true&theme=vue" />
 
 </details>
 <p align="center">
