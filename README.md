@@ -16,7 +16,7 @@
   <i>Dwelling over diffffrent things.</i><br>
     :diamonds:<br>
   <b>Always an evolving learner.</b><br>
-  <i>Currently, making peace with C++.</i><br><br>
+  <i>Currently, making peace with C++ and Python.</i><br><br>
 </p>
 
 <p align="center">
